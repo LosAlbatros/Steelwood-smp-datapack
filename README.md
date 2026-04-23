@@ -199,3 +199,48 @@
 - [ ] Faceless
 - [ ] Wanted list
 - [ ] Wanted
+
+# Cheat Sheet
+## Size Sheet
+| Size | Count | Name | Game size | Lives | Status |
+| - | - | - | - | - | - |
+| 1-2  | . | Tiny | 0.4-0.6 | 3 |
+| 3-4  | . | Small | 0.9-1.2 | 4 |
+| 4-5  | .. | Dwarf | 1.2-1.6 | 4 |
+| 5-6  | .... | Medium | 1.6-2.0 | 5 | HIDDEN |
+| 6-7  | .. | Big | 2.0-2.5 | 7 |
+| 7-8  | . | Giant | 2.5-3.0 | 10 |
+
+## Live Sheet
+| Live Length | Count | Name | Lives | Status |
+| - | - | - | - | - |
+| 50 | .. | Blink life | 3 |
+| 80 | . | Short living | 4 |
+| 100 | .... | Medium | 5 | HIDDEN |
+| 400 | ... | Long living | 8 |
+| 750 | . | Nearly Imortal | 10 |
+
+## Speed Sheet
+| Speed Walk | Count | Name | Game Speed | Status |
+| - | - | - | - | - |
+| 25 | .... | Slow | ?? |
+| 30 | ..... | Normal | ?? | HIDDEN |
+| 35 | .. | Fast | ?? |
+
+## Ability Improvments Sheet
+| +x Abi | Desc | number impact |
+| - | - | - |
+| str | Damage Mele | 1 = 0.5 |
+| | Damage Range | 2 = 0.5 |
+| | Damage Reduction | 2 = 0.5 |
+| dex | Walk speed | 1 = 1 |
+| | Fly speed  | 1 = 0.1 |
+| | Jump Height  | 1 = 0.5 |
+| con | Hearts | 1 = 0.5 |
+| | Damage Reduction | 1 = 0.5 |
+| wis | Max Mana | 1 = 100 |
+| | Mana Regen | 1 = 2 |
+| int | Max Mana | 1 = 200 |
+| | Mana Regen | 1 = 1 |
+| cha | Hearts | 1 = 1 |
+| | Pricing | 1 = -25% |
